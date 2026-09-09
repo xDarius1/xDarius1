@@ -32,4 +32,4 @@ Focused on autonomous robot manipulation, ROS 2 architectures, computer vision p
 ---
 
 ### Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)]([https://linkedin.com](https://www.linkedin.com/in/darius-cristian-vasilache-a1a0ba418/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://www.linkedin.com/in/darius-cristian-vasilache-a1a0ba418/)
